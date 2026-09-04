@@ -1,7 +1,5 @@
 # Seasonal Agriculture Performance Analysis
 
-**VOIS AICTE Batch1 2026-2027 — Major Project**
-
 ## 📌 Overview
 
 This project analyzes farm-level agricultural data across three Indian cropping seasons — **Kharif, Rabi, and Zaid** — to uncover seasonal patterns, trends, and relationships in crop yield, resource usage, environmental conditions, and economic performance. The goal is to support evidence-based, season-specific agricultural planning.
@@ -79,7 +77,6 @@ File: `seasonal_agriculture_performance_dataset.csv`
 
 ## 👤 Author
 
-- **Name:** [Your Name]
-- **College:** [Your College Name]
-- **AICTE Student ID:** [Your AICTE STU ID]
-- **Program:** VOIS AICTE Data Analytics Internship — Batch 1, 2026-2027
+- **Name:** PURRU.SRILALITHA SAI PRASANNA
+
+
